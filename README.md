@@ -1,2 +1,3 @@
-# lgo_my_server
-Learn go by building HTTP server. 
+#  Build your own HTTP server
+
+[Task if from here.](https://codecrafters.io/ "Cool link")
